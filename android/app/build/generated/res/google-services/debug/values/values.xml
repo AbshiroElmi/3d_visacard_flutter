@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">776114340464</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEGPsrS4xlw5UMz63PoTiFdHeBhpBzWgA</string>
+    <string name="google_app_id" translatable="false">1:776114340464:android:8c9e0dec6a59b96c01aab5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEGPsrS4xlw5UMz63PoTiFdHeBhpBzWgA</string>
+    <string name="google_storage_bucket" translatable="false">aouthenticationapp.appspot.com</string>
+    <string name="project_id" translatable="false">aouthenticationapp</string>
+</resources>
